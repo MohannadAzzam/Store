@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/settings_save"
+        android:icon="@drawable/ic_check"
+        app:showAsAction="always"
+        android:title="@string/ok" />
+
+<!--    <item-->
+<!--        android:id="@+id/settings_close"-->
+<!--        android:icon="@drawable/ic_close"-->
+<!--        app:showAsAction="ifRoom"-->
+<!--        android:title="@string/close" />-->
+    <item
+        android:id="@+id/settings_edit"
+        android:icon="@drawable/ic_edit"
+        app:showAsAction="ifRoom"
+        android:title="@string/edit" />
+</menu>

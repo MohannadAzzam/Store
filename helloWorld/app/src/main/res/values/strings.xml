@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">ONLINE SHOP</string>
+    <string name="title_activity_home">Home Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">My name</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="productName">Name</string>
+    <string name="cart">Cart</string>
+    <string name="orders">Orders</string>
+    <string name="categories">Categories</string>
+    <string name="logout">Log out</string>
+    <string name="productDescription">Description</string>
+    <string name="price">Price</string>
+    <string name="Add">Add</string>
+    <string name="login">LOG IN</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="rememberme">Remember me</string>
+    <string name="forgetpassword">Forget password?</string>
+    <string name="havenot">Don\'t have an account? </string>
+    <string name="clickhere"> SIGN UP</string>
+    <string name="iamadmin">I\'m Admin</string>
+    <string name="register">Create Your Account</string>
+    <string name="username">Full name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="product">Product</string>
+    <string name="close">Close</string>
+    <string name="ok">Ok</string>
+    <string name="address">Address</string>
+    <string name="change_profile">Change Profile</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="please_enter_your_info_to_create_account">Please enter your info to create account</string>
+
+    <string name="Add_product">Add product</string>
+    <string name="chose_category">Chose category</string>
+    <string name="not_addmin">Not admin</string>
+    <string name="next">NEXT</string>
+    <string name="edit">Edit</string>
+
+
+    <string name="product_details">Product Details</string>
+
+</resources>

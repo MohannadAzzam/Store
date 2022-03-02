@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ONLINE SHOP</string>
+    <string name="title_activity_home">الصفحة الرئيسية</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">اسمي</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="settings">الإعدادات</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="productName">اسم المنتج</string>
+    <string name="cart">السلة</string>
+    <string name="orders">الطلبات</string>
+    <string name="categories">التصنيفات</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="productDescription">وصف المنتج</string>
+    <string name="price">سعر المنتج بالشيكل</string>
+    <string name="Add">أضف المنتج</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="phoneNumber">رقم الهاتف</string>
+    <string name="password">كلمة المرور</string>
+    <string name="rememberme">تذكرني</string>
+    <string name="forgetpassword">نسيت كلمة المرور؟</string>
+    <string name="havenot">لا تمتلك حساب ؟</string>
+    <string name="clickhere">اضغط هنا</string>
+    <string name="iamadmin">أنا مشرف</string>
+    <string name="register">إنشاء حساب</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="product">المنتجات</string>
+    <string name="close">إغلاق</string>
+    <string name="ok">حفظ</string>
+    <string name="address">العنوان</string>
+    <string name="change_profile">تغيير البيانات الشخصية</string>
+    <string name="already_have_an_account">لديك حساب؟</string>
+    <string name="please_enter_your_info_to_create_account">يرجى ادخال بيانات الحساب</string>
+
+    <string name="Add_product">إضفافة منتج</string>
+    <string name="chose_category">اختر تصنيف</string>
+    <string name="not_addmin">أنا لست مشرف</string>
+    <string name="next">التالي</string>
+    <string name="edit">تعديل</string>
+
+    <string name="product_details">تفاصيل المنتج</string>
+
+
+</resources>
